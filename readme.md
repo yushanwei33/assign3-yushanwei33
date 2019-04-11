@@ -13,12 +13,12 @@
 
 ### 3.檢視遊戲與繳交作業連結到平台
 - 點進去網頁右側的 `Settings按鈕`(齒輪圖示)，
-- 找到敘述 `Your site is published at : http://nccuprogramming101.github.io/20171-assign1-你的ID/` 點入連結確認連結無誤，
-- 複製此連結，並到 [Programming101](http://programming101.cs.nccu.edu.tw/dashboard.html) 繳交。
+- 找到敘述 `Your site is published at : http://ntustprogramming101.github.io/assign3-你的ID/` 點入連結確認連結無誤，
+- 複製此連結，並到 [Programming101](http://programming101.ntust.edu.tw/dashboard.html) 繳交。
 
 ### (4).更新你上傳過的程式碼
 - 請先確認你登入了 github 
-- 到 github.com 裡面，畫面右側的 repository 裡點入你的 20171-assignX 作業。.
+- 到 github.com 裡面，畫面右側的 repository 裡點入你的 assignX 作業。.
 - 執行本說明檔的步驟二(上傳你完成的程式碼)，不用再次執行步驟3
 
-### 恭喜你交作業完畢！有問題請上[Mooc平台](http://moocs.nccu.edu.tw/course/113/discuss/)討論。
+### 恭喜你交作業完畢！有問題請上[Mooc平台](http://u.camdemy.com/course/2211/discuss/)討論。
